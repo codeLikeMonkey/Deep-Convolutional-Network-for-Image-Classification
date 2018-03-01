@@ -1,17 +1,23 @@
-# ECE 253 homework 3 part 1
+# ECE 253 homework 3
 
-## In this part, we implemeted a image classifyer by Pytorch. 
 
-## network.py
-### This file contains the neural network structure.
+part 1
 
-## CNN0.py
-### This file uses the first neural network from network.py 
+In this part, we implemeted a image classifyer by Pytorch. We classified images by using three different structure CNN net.
 
-## CNN1.py
-### This file uses the second neural network from network.py 
+network.py
+This file contains the neural network structure.
 
-## CNN2.py
-### This file uses the second neural network from network.py 
+CNN0.py
+This file uses the first neural network from network.py 
+
+CNN1.py
+This file uses the second neural network from network.py 
+
+CNN2.py
+This file uses the second neural network from network.py 
+
+part 2 
+In this part, we implemeted transfer learning by using VGG-16.
 
 
